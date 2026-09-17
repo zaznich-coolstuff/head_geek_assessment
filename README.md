@@ -66,7 +66,7 @@ You should see:
 
 head_geek.py
 
-Then, to ACTUALLY start the assessment, run:
+Then, to ACTUALLY start the tool, run:
 
 python3 head_geek.py
 
@@ -92,6 +92,6 @@ You should see:
 
 head_geek.py
 
-Then, to ACTUALLY start the assessment, run:
+Then, to ACTUALLY start the tool, run:
 
 python head_geek.py
